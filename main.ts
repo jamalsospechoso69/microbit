@@ -95,7 +95,7 @@ input.onButtonPressed(Button.B, function () {
     }
     if (aleatorio_numero == 3) {
         basic.showIcon(IconNames.EigthNote)
-        music.playMelody("- - - - - - - - ", 120)
+        music.playMelody("C D E F G A B C5 ", 180)
         basic.showString("FINAL FELIZ")
     }
     if (aleatorio_numero == 4) {
